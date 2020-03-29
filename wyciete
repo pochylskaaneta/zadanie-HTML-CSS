@@ -1,0 +1,27 @@
+<div class="foto2">
+                   
+                    <div class="foto-box">
+                        <div class="foto-box-inside">
+                            <img src="foto5.jpg" alt="Psy" />
+
+                        </div>
+                    </div>
+                    <div class="foto-box">
+                        <div class="foto-box-inside">
+                            <img src="foto6.jpg" alt="Psy" />
+
+                        </div>
+                    </div>
+                    <div class="foto-box">
+                        <div class="foto-box-inside">
+                            <img src="foto7.jpg" alt="Psy" />
+
+                        </div>
+                    </div>
+                    <div class="foto-box">
+                        <div class="foto-box-inside">
+                            <img src="foto8.jpg" alt="Psy" />
+
+                        </div>
+                    </div>
+                </div>
